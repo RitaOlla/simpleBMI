@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BMI calculator</string>
+    <string name="mass">MASS</string>
+    <string name="height">HEIGHT</string>
+    <string name="bmi">BMI:</string>
+    <string name="saveData">Save data</string>
+    <string name="countBmi" translatable="false">Count BMI</string>
+    <string name="wrong_mass">INCORRECT MASS</string>
+    <string name="wrong_height">INCORRECT_HEIGHT</string>
+    <string name="wrong_data">INCORRECT DATA</string>
+
+    <string name="normalBmi">Normal BMI</string>
+    <string name="obese">Obese</string>
+    <string name="overweight">Overweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="seriouslyUnderweight">Seriously Underweight</string>
+    <string-array name="units">
+        <item>kg/m</item>
+        <item>lb/in</item>
+    </string-array>
+    <string name="title_activity_author">Author</string>
+    <string name="tvAuthorDescription">My name is Aleksandra Kaptur and I developed this app. Playing with kids is my fav activity!</string>
+    <string name="saved">Saved</string>
+    <string name="erased">Erased</string>
+    <string name="des" tools:ignore="TypographyDashes"> below 18.0 – underweight \n18.0 – 25.0 - normal \n25.0 - 30.0 - overweight \nover 30.0 - obese</string>
+    <string name="NaN">not a number</string>
+    <string name="inputRange">from %1$.1f to %2$.1f</string>
+    <string name="mode_choice">UNITS</string>
+    <string name="clear">Clear</string>
+    <string name="kg">Kg</string>
+    <string name="m">M</string>
+    <string name="lb">LB</string>
+    <string name="in">In</string>
+</resources>
